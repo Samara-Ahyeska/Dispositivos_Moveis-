@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397583374552",
+    "project_id": "atvd5-73845",
+    "storage_bucket": "atvd5-73845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397583374552:android:fa41ebbece0dc1f23f1fad",
+        "android_client_info": {
+          "package_name": "com.example.atvd5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAke7qxjy_mZkct-7SJ6XwXENFBJvdyVtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
