@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema claro padrão sem referências a cores ausentes -->
+    <style name="Theme.Prova1_APIDDM" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova1_APIDDM</string>
+    <string name="hint_search">Digite o nome do livro</string>
+    <string name="btn_search">Buscar Livros</string>
+</resources>
